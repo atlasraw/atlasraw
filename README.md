@@ -21,6 +21,7 @@ ______
 
 I consider myself a dedicated, hard-working person, with leadership skills. I am a creative and initiative person and I like to learn about everything (Culture, Sports, Technology, Psychology... etc)
 
+I was an international champion lifting weight in my category, I have dedicated myself to design at a graphic, tattoo, artistic level... And now Technological, discovering new fields...
 ______
 
 ### 📩 Contact:
