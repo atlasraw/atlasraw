@@ -1,6 +1,6 @@
 # Pleasure! I'm Atlas 👋 
 
-<a href="https://www.linkedin.com/in/mathias-asenjo-9130ab2a1/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" atl="Linkedin" width="40"/>Linkedin.</a>
+<a href="https://www.linkedin.com/in/mathias-asenjo-9130ab2a1/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/256/174/174857.png" atl="Linkedin" width="40"/> Linkedin.</a><a href="mailto:atlas.workcontact@gmail.com" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" atl="Email" width="40"/> atlas.workcontact@gmail.com</a> 
 
 A Frontend developer studying in [@4GeeksAcademy](https://github.com/4GeeksAcademy) and living in Barcelona, ​​Spain.
 
