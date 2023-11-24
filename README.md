@@ -1,6 +1,6 @@
 # Pleasure! I'm Atlas 👋 
 
-<a href="https://www.linkedin.com/in/mathias-asenjo-9130ab2a1/" target="blank"> <i class="fa-brands fa-linkedin fa-xl"></i> </a>
+<a href="https://www.linkedin.com/in/mathias-asenjo-9130ab2a1/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" atl="Linkedin" width="40"/>Linkedin.</a>
 
 A Frontend developer studying in [@4GeeksAcademy](https://github.com/4GeeksAcademy) and living in Barcelona, ​​Spain.
 
@@ -12,7 +12,6 @@ _____
 Programming languages:
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="Js" width="65">
-
 
 Frontend Development:
 
