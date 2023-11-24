@@ -1,4 +1,6 @@
-# Pleasure! I'm Atlas 👋
+# Pleasure! I'm Atlas 👋 
+
+<a href="https://www.linkedin.com/in/mathias-asenjo-9130ab2a1/" target="blank"> <i class="fa-brands fa-linkedin fa-xl"></i> </a>
 
 A Frontend developer studying in [@4GeeksAcademy](https://github.com/4GeeksAcademy) and living in Barcelona, ​​Spain.
 
@@ -19,3 +21,4 @@ Frontend Development:
 ______
 
 ### 🧐 More about me...
+
