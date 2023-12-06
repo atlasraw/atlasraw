@@ -13,7 +13,11 @@ Programming languages:
 
 Frontend Development:
 
-<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="Html5" width="65"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Css" width="65"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" alt="Figma" width="70">
+<img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="Html5" width="65"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="Css" height="65"> <img src="https://cdn.sanity.io/images/599r6htc/localized/46a76c802176eb17b04e12108de7e7e0f3736dc6-1024x1024.png?w=804&h=804&q=75&fit=max&auto=format" alt="Figma" width="70">
+
+Frameworks:
+
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" atl="Bootstrap" width="80"><img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" atl="Sass" width="65">
 
 ______
 
